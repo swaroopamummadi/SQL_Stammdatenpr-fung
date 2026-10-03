@@ -18,7 +18,7 @@ Durchgeführte Aufgaben
 - Daten mit GROUP BY gruppiert,
 - Fehler mit CASE WHEN kategorisiert,
 - Datensätze mit UPDATE korrigiert,
-- SQL-Abfragen für Datenqualitätsprüfungen erstellt
+- SQL-Abfragen für Datenqualitätsprüfungen erstellt.
 Verwendete SQL-Kenntnisse
 1. SELECT,
 2. WHERE,
