@@ -10,12 +10,12 @@ Ziel des Projekts
 
 Das Ziel ist es, Daten systematisch zu prüfen, Fehler zu erkennen und die Daten für weitere Analysen mit Excel oder Power BI vorzubereiten.
 ##Durchgeführte Aufgaben##
-Stammdaten mit SQL analysiert
-Fehlende Werte mit IS NULL geprüft
-Mögliche Duplikate identifiziert
-Daten mit WHERE gefiltert
-Daten mit ORDER BY sortiert
-Daten mit GROUP BY gruppiert
+- Stammdaten mit SQL analysiert,
+- Fehlende Werte mit IS NULL geprüft,
+-Mögliche Duplikate identifiziert,
+-Daten mit WHERE gefiltert,
+-Daten mit ORDER BY sortiert,
+-Daten mit GROUP BY gruppiert,
 Fehler mit CASE WHEN kategorisiert
 Datensätze mit UPDATE korrigiert
 SQL-Abfragen für Datenqualitätsprüfungen erstellt
