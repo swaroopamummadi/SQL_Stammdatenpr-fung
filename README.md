@@ -19,6 +19,7 @@ Durchgeführte Aufgaben
 - Fehler mit CASE WHEN kategorisiert,
 - Datensätze mit UPDATE korrigiert,
 - SQL-Abfragen für Datenqualitätsprüfungen erstellt.
+
 Verwendete SQL-Kenntnisse
 1. SELECT,
 2. WHERE,
